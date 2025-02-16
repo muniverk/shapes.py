@@ -1,8 +1,6 @@
 """
 ******************************
-CS 1026 - Assignment 1 – Shapes and Sizes
 Code by: Muniver Kaur Kharod
-File created: September 23, 2024
 ******************************
 This file is used to calculate the area and perimeter of various 2-dimensional
 shapes (Rectangle,triangle,circle,trapezoid and hexagon). It must ask the user for
